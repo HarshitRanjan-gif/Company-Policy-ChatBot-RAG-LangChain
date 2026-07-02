@@ -1,4 +1,4 @@
-# Company Policy RAG Chatbot
+# Company Policy RAG Chatbot(LangChain)
 
 A Conversational Retrieval-Augmented Generation (RAG) chatbot built using **LangChain**, **FAISS**, **Hugging Face Embeddings**, **Groq LLM**, and **Streamlit**. The chatbot allows users to ask questions about company HR policies and receives accurate, context-aware responses based on the uploaded policy document.
 
