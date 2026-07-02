@@ -4,6 +4,10 @@ A Conversational Retrieval-Augmented Generation (RAG) chatbot built using **Lang
 
 ![Application Screenshort](image.png)
 
+## 🖥️ Live Demo
+
+[Open App](https://company-policy-chatbot-rag-langchain-hgotpiuthhwsqwainvbjlf.streamlit.app/)
+
 ## Features
 
 - Conversational RAG with chat history
