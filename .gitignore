@@ -14,7 +14,3 @@ __pycache__/
 # OS Files
 .DS_Store
 Thumbs.db
-
-# Company Data (Do not upload)
-data/
-vector_store/
